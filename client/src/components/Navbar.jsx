@@ -27,7 +27,7 @@ const Navbar = ({ isDarkMode, setIsDarkMode }) => {
     <header className={`shadow fixed w-full z-50 top-0 ${isDarkMode ? 'bg-black' : 'bg-white'}`}>
       <nav className="container mx-auto lg:p-5 px-1 py-2 flex justify-between items-center">
         <Link className="text-xl font-bold" to="/">
-          Shopping Cart
+          Shoppers
         </Link>
         <button className="md:hidden visible absolute right-10" onClick={() => setIsOpen(!isOpen)}>
           <CiMenuBurger size={25} />
