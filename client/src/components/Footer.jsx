@@ -28,9 +28,9 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-semibold mb-4">Follow Us</h3>
           <ul className="space-y-2">
-            <li><a href="#" target="_blank" className="hover:underline">GitHub</a></li>
-            <li><a href="#" target="_blank" className="hover:underline">LinkedIn</a></li>
-            <li><a href="#" target="_blank" className="hover:underline">Twitter</a></li>
+            <li><a href="https://github.com/LegenD742/shoppers" target="_blank" className="hover:underline">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/devansh-sapra-67397a31a/" target="_blank" className="hover:underline">LinkedIn</a></li>
+            <li><a href="http://twitter.com/" target="_blank" className="hover:underline">Twitter</a></li>
           </ul>
         </div>
 
